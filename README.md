@@ -11,17 +11,22 @@ https://new.exapmle.com?ldf
 
 ```
 cat list | ./extractjustdomain
-
+```
 ## result:
+```
 google.com
 facebook.com
 example.com
+```
 
 
-#install
+## install
+```
 git clone https://github.com/djallalzoldik/extractjustdomain.git
 cd extractjustdomain
 go build
-
-##use
+```
+## use
+```
 cat list | ./extractjustdomain
+```
